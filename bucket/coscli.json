@@ -9,7 +9,7 @@
             "hash": "2b7510f1493f79ccef0987574198d10a5d14e998db3bf5d3fda1fec579620cbc"
         }
     },
-    "bin": "coscli-v1.0.0-windows-amd64.exe",
+    "bin": [["coscli-v1.0.0-windows-amd64.exe", "coscli"]],
     "checkver": {
         "url": "https://github.com/tencentyun/coscli/releases",
         "regex": "/releases/tag/v([^/]+?)\""
