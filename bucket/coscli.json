@@ -11,7 +11,7 @@
     },
     "bin": [
         [
-            "coscli-v1.0.0-windows-amd64.exe",
+            "*.exe",
             "coscli"
         ]
     ],
