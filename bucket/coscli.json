@@ -22,11 +22,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/tencentyun/coscli/releases/download/v$version/coscli-v$version-windows-amd64.exe"
+                "url": "https://github.com/tencentyun/coscli/releases/download/v$version/coscli-v$version-windows-amd64.exe",
+                "hash": {
+                    "url": "https://github.com/tencentyun/coscli/releases/download/v$version/coscli-v$version-windows-amd64.sha256"
+                }
             }
-        },
-        "hash": {
-            "url": "$url.sha256"
         }
     }
 }
