@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/tencentyun/coscli/releases/download/v1.0.4/coscli-v1.0.4-windows-amd64.exe",
-            "hash": "91ecab74d4204a0a1a2b0f3621de8ac4a17242beaa4bfce7099be3479cfa5679"
+            "hash": "6c0fb10ad49b77f7846055849f0c7f1cfd06e11b98dc3807f70572553b53f4e7"
         }
     },
     "bin": [
